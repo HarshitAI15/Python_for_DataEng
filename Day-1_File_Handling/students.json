@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ravi",
+        "marks": 88,
+        "city": "Delhi"
+    },
+    {
+        "id": 2,
+        "name": "Priya",
+        "marks": 45,
+        "city": "Mumbai"
+    },
+    {
+        "id": 3,
+        "name": "Arjun",
+        "marks": 72,
+        "city": "Bangalore"
+    },
+    {
+        "id": 4,
+        "name": "Sneha",
+        "marks": 91,
+        "city": "Delhi"
+    },
+    {
+        "id": 5,
+        "name": "Karan",
+        "marks": 38,
+        "city": "Mumbai"
+    }
+]
