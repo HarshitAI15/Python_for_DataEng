@@ -1,0 +1,10 @@
+endpoint_url,error_reasons
+https://jsonplaceholder.typicode.com/posts?userId=999,Empty data
+https://jsonplaceholder.typicode.com/invalid,All retries failed
+https://not-a-real-url-xyz.com/data,All retries failed
+https://jsonplaceholder.typicode.com/posts?userId=999,Empty data
+https://jsonplaceholder.typicode.com/invalid,All retries failed
+https://not-a-real-url-xyz.com/data,All retries failed
+https://jsonplaceholder.typicode.com/posts?userId=999,Empty data
+https://jsonplaceholder.typicode.com/invalid,All retries failed
+https://not-a-real-url-xyz.com/data,All retries failed
